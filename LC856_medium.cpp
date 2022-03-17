@@ -1,3 +1,8 @@
+/*
+ Author: Mrigank
+Science is what we understand well enough to explain to a computer, Art is everything else we do - Donald E. Knuth
+Problem Link : https://leetcode.com/problems/score-of-parentheses/
+*/
 
 
 class Solution {
